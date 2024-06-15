@@ -1,0 +1,10 @@
+Task demonstrations:
+{{ TASK_DEMOS }}
+
+Test case:
+{{ TASK_TEST }}
+
+Reason about how to solve the problem successfully. Solve the given abstraction and reasoning problem and output the solution to the test case:
+```
+output = ...
+```

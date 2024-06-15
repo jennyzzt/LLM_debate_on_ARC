@@ -1,0 +1,6 @@
+These are the recent opinions from other agents: {{ OTHER_AGENT_OPINIONS }}
+
+Use these opinions carefully as additional advice and provide an updated reasoning and answer. Reason about how to solve the problem successfully. Solve the given abstraction and reasoning problem and output the new solution to the test case:
+```
+output = ...
+```

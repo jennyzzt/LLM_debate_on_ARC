@@ -1,0 +1,7 @@
+These are the recent opinions from other agents: {{ OTHER_AGENT_OPINIONS }}
+
+Use these opinions carefully as additional advice and provide an updated reasoning and answer. Write python code to solve the given abstraction and reasoning problem in a python code block, following the below format:
+```python
+def solve(input):
+    return output
+```
