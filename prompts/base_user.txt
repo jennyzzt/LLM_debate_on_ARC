@@ -1,0 +1,11 @@
+Task demonstrations:
+{{ TASK_DEMOS }}
+
+Test cases:
+{{ TASK_TEST }}
+
+Reason about how to solve the problem successfully. Write python code to solve the given abstraction and reasoning problem following the format below:
+```python
+def solve(input):
+    return output
+```
